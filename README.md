@@ -1,7 +1,10 @@
 # Poker Hand Evaluator & Equity Calculator
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+</p>
+
 
 A high-performance Texas Hold'em poker hand evaluator and **Monte Carlo equity calculator** using **bitmasking** for O(1) flush/straight detection.
 
@@ -109,5 +112,4 @@ Jane Street uses poker as a training tool because both involve:
 
 ## Author
 
-Built for Jane Street FTTP program application demonstrating probability, 
-combinatorics, and efficient algorithm implementation.
+Made with <3 by AKSHAY GUPTA BURELA
